@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/Luffy2769">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff652f&amp;height=250&amp;section=header&amp;text=Hi%20there,%20I%27m%20Raunak%20%F0%9F%91%8B&amp;fontSize=200&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%26%20Student&amp;descAlignY=55&amp;descSize=20&amp;animation=twinkling" alt="Header Banner" />
-  </a>
+  <a href="https://github.com/ItzMeet2">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Meet%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Header Banner" />
+    </a>
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught Full Stack Developer and a passionate student who loves building real-world web applications from scratch. My curiosity about how the web works pushed me to dive deep into both frontend and backend development. I've built and shipped a live company website, and I'm always looking for the next challenge — whether that's a complex backend system, a slick UI, or a game in Godot. When I'm not coding, I'm either lost in a story game or vibing to music. Currently open for freelance work and developer collaborations!
+I'm a self-taught Full Stack Developer and student with a passion for crafting interactive, full-scale web applications. My coding journey began with a natural curiosity about the inner workings of the internet, leading me to learn everything from crafting seamless user interfaces to designing resilient backend systems. Outside of programming and working on challenging projects, I enjoy listening to music and diving into competitive, story-driven games. I am always open to freelance opportunities and eager to collaborate with other developers on exciting new ventures!
 
 ## 🚀 Languages and Tools
 
