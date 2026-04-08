@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Luffy2769">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff652f&amp;height=250&amp;section=header&amp;text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&amp;fontSize=50&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%26%20Student&amp;descAlignY=55&amp;descSize=20&amp;animation=twinkling" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff652f&amp;height=250&amp;section=header&amp;text=Hi%20there,%20I%27m%20Raunak%20%F0%9F%91%8B&amp;fontSize=200&amp;fontAlignY=35&amp;desc=Full%20Stack%20Developer%20%26%20Student&amp;descAlignY=55&amp;descSize=20&amp;animation=twinkling" alt="Header Banner" />
   </a>
 </div>
 
