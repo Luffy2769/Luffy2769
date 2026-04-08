@@ -11,20 +11,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://luffy.github.io/Portfolio#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://luffy.github.io/Portfolio#gh-dark-mode-only)
+[![website](https://img.icons8.com/fluency/48/domain.png)](https://luffy2769.github.io/Portfolio/)
 &nbsp;&nbsp;
-<!-- [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only) -->
-<!-- &nbsp;&nbsp; -->
-<!-- [![website](./img/twitter-light.svg)](https://twitter.com/none#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/none#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/raunak-r-561a01320#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/raunak-r-561a01320#gh-dark-mode-only)
+[![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vasc0smos#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vasc0smos#gh-dark-mode-only)
+[![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos)
 
 ### Languages and Tools:
 
@@ -84,7 +75,7 @@
 
 </details>
 
-[website]: https://luffy.github.io/Portfolio
+[website]: https://luffy2769.github.io/Portfolio/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/vasc0smos
