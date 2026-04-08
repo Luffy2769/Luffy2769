@@ -11,11 +11,15 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/fluency/48/domain.png)](https://luffy2769.github.io/Portfolio/)
+[![website](https://img.icons8.com/fluency/48/web.png)](https://luffy2769.github.io/Portfolio/)
 &nbsp;&nbsp;
 [![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320)
 &nbsp;&nbsp;
 [![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos)
+&nbsp;&nbsp;
+[![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/vasc0smos)
+&nbsp;&nbsp;
+[![whatsapp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/918369961495)
 
 ### Languages and Tools:
 
