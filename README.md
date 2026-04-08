@@ -1,78 +1,80 @@
-# Hi there, I'm Raunak 👋 - I am a self-taught full stack developer.
+<div align="center">
+  <a href="https://github.com/Luffy2769">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff652f&height=250&section=header&text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Student&descAlignY=55&descSize=20&animation=twinkling" alt="Header Banner" />
+  </a>
+</div>
 
-## I'm a Developer, and a Student.
+<br>
 
-- 🔭 Check out my first ever live project: [liveproject]!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- 🤝 Open to work as a freelancer
-- 🥅 2026 Goals: Contribute more!
-- ⚡ Fun fact: I love to listen to musics and play competitive / story games
+<div align="center">
+  <a href="https://veabroad.com">
+    <img src="https://img.shields.io/badge/Check_Out_My_Live_Project-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Live Project" />
+  </a>
+</div>
 
-### Connect with me:
+<br>
 
-[![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/Portfolio/)
-&nbsp;&nbsp;
-[![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320)
-&nbsp;&nbsp;
-[![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos)
-&nbsp;&nbsp;
-[![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/vasc0smos)
-&nbsp;&nbsp;
-[![whatsapp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/918369961495)
+<div align="center">
 
-### Languages and Tools:
+  [![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/Portfolio/) &nbsp;&nbsp;
+  [![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320) &nbsp;&nbsp;
+  [![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos) &nbsp;&nbsp;
+  [![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/vasc0smos) &nbsp;&nbsp;
+  [![whatsapp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/918369961495) &nbsp;&nbsp;
+  [![gmail](https://img.icons8.com/fluency/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=raunak.rawat69@gmail.com)
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />](https://www.java.com)
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org)
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
-[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" />](https://www.djangoproject.com)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com)
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://www.postgresql.org)
-[<img align="left" alt="Godot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;" />](https://godotengine.org)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com)
-[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com)
+</div>
 
-<br />
-<br />
+<br>
 
-<!-- ---
+## 👨‍💻 About Me
 
-### 📺 Latest YouTube Videos -->
+I'm a self-taught Full Stack Developer and a passionate student who loves building real-world web applications from scratch. My curiosity about how the web works pushed me to dive deep into both frontend and backend development. I've built and shipped a live company website, and I'm always looking for the next challenge — whether that's a complex backend system, a slick UI, or a game in Godot. When I'm not coding, I'm either lost in a story game or vibing to music. Currently open for freelance work and developer collaborations!
 
-<!-- YOUTUBE:START -->
-<!-- - [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
-- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
-- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
-- [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8) -->
-<!-- YOUTUBE:END -->
-<!-- 
-➡️ [more videos...](https://youtube.com/codestackr) -->
+## 🚀 Languages and Tools
 
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.java.com"><img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.python.org"><img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://react.dev"><img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://nodejs.org"><img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.djangoproject.com"><img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.mongodb.com"><img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://godotengine.org"><img alt="Godot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://git-scm.com"><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://github.com"><img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://code.visualstudio.com"><img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
+</p>
+
+<br>
+
+## 📌 Quick Facts
+
+- 🔭 Check out my live project: [veabroad.com](https://veabroad.com)
+- 🌱 Currently learning everything I can get my hands on
+- 👯 Looking to collaborate with other developers
+- 🤝 Open to freelance work
+- 🥅 2026 Goals: Contribute more to open source
+- ⚡ Fun fact: I love listening to music and playing competitive / story games
+
+<br>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+  <summary>⚡ Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
 
-  [![Luffy2769's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luffy2769)](https://github.com/anuraghazra/github-readme-stats)
+  [![Luffy2769's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luffy2769&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-[website]: https://luffy2769.github.io/Portfolio/
-[instagram]: https://instagram.com/vasc0smos
-[linkedin]: https://linkedin.com/in/raunak-r-561a01320
-[liveproject]: https://veabroad.com
