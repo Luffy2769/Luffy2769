@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/fluency/48/web.png)](https://luffy2769.github.io/Portfolio/)
+[![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/Portfolio/)
 &nbsp;&nbsp;
 [![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320)
 &nbsp;&nbsp;
