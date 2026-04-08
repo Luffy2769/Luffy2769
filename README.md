@@ -10,13 +10,17 @@
   <a href="https://veabroad.com">
     <img src="https://img.shields.io/badge/Check_Out_My_Live_Project-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Live Project" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://luffy2769.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
 
-  [![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/Portfolio/) &nbsp;&nbsp;
+  [![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/TextUtils/) &nbsp;&nbsp;
   [![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320) &nbsp;&nbsp;
   [![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos) &nbsp;&nbsp;
   [![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/vasc0smos) &nbsp;&nbsp;
