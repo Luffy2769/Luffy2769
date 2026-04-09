@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Check_Out_My_Live_Project-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Live Project" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://luffy2769.github.io/Portfolio/">
+  <a href="https://luffy2769.github.io/Raunak-Portfolio/">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Portfolio" />
   </a>
 </div>
