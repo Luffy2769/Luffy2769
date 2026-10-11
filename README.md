@@ -1,20 +1,16 @@
 <div align="center">
   <img src="assets/header.svg" alt="Hi, I'm Raunak" width="100%" />
-  <br>
-  <a href="https://github.com/Luffy2769">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=36&lines=Founder+%40+RootCrypt;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Engineering+Modern+Web+Platforms;Full-Stack+Developer" alt="Typing Tagline" />
-  </a>
 
   <p align="center">
     <a href="https://rootcrypt.in" target="_blank">
-      <img src="https://img.shields.io/badge/Founder_of-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
+      <img src="https://img.shields.io/badge/Founder_of-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=ef4444&labelColor=1e293b" alt="RootCrypt" />
     </a>
     &nbsp;
     <a href="https://luffy2769.github.io/Raunak-Portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f172a?style=for-the-badge&logo=safari&logoColor=ef4444&labelColor=1e293b" alt="Portfolio" />
     </a>
     &nbsp;
-    <img src="https://hits.sh/github.com/Luffy2769.svg?style=for-the-badge&label=PROFILE+VIEWS&color=38bdf8&labelColor=1e293b" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/Luffy2769.svg?style=for-the-badge&label=PROFILE+VIEWS&color=ef4444&labelColor=1e293b" alt="Profile Views" />
   </p>
 
   <p align="center">

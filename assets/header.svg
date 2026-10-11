@@ -1,36 +1,36 @@
-<svg width="100%" height="140" viewBox="0 0 850 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="96" viewBox="0 0 850 96" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Dynamic Liquid Aurora Gradient Animation -->
-    <linearGradient id="auroraGrad" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8">
-        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#f472b6;#38bdf8" dur="7s" repeatCount="indefinite" />
+    <!-- Dynamic Crimson Red Liquid Gradient Animation -->
+    <linearGradient id="crimsonGrad" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#ff1744">
+        <animate attributeName="stop-color" values="#ff1744;#dc2626;#ff4d6d;#b91c1c;#ff1744" dur="5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="25%" stop-color="#818cf8">
-        <animate attributeName="stop-color" values="#818cf8;#c084fc;#f472b6;#38bdf8;#818cf8" dur="7s" repeatCount="indefinite" />
+      <stop offset="25%" stop-color="#ef4444">
+        <animate attributeName="stop-color" values="#ef4444;#ff4d6d;#b91c1c;#ff1744;#ef4444" dur="5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="50%" stop-color="#c084fc">
-        <animate attributeName="stop-color" values="#c084fc;#f472b6;#38bdf8;#818cf8;#c084fc" dur="7s" repeatCount="indefinite" />
+      <stop offset="50%" stop-color="#dc2626">
+        <animate attributeName="stop-color" values="#dc2626;#b91c1c;#ff1744;#ef4444;#dc2626" dur="5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="75%" stop-color="#f472b6">
-        <animate attributeName="stop-color" values="#f472b6;#38bdf8;#818cf8;#c084fc;#f472b6" dur="7s" repeatCount="indefinite" />
+      <stop offset="75%" stop-color="#ff4d6d">
+        <animate attributeName="stop-color" values="#ff4d6d;#ff1744;#ef4444;#dc2626;#ff4d6d" dur="5s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#38bdf8">
-        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#f472b6;#38bdf8" dur="7s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#ff1744">
+        <animate attributeName="stop-color" values="#ff1744;#dc2626;#ff4d6d;#b91c1c;#ff1744" dur="5s" repeatCount="indefinite" />
       </stop>
-      <animate attributeName="x1" from="0%" to="-100%" dur="7s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="200%" to="100%" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x1" from="0%" to="-100%" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="200%" to="100%" dur="5s" repeatCount="indefinite" />
     </linearGradient>
 
-    <!-- Subtle Glow Filters -->
-    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
+    <!-- Crimson Neon Glow -->
+    <filter id="crimsonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4.5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
 
-    <filter id="orbGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="redOrbGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="glow" />
       <feMerge>
         <feMergeNode in="glow" />
@@ -38,20 +38,13 @@
       </feMerge>
     </filter>
 
-    <!-- Glowing Accent Beam Gradient -->
-    <linearGradient id="beamGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
-      <stop offset="20%" stop-color="#38bdf8" stop-opacity="0.9" />
-      <stop offset="50%" stop-color="#c084fc" stop-opacity="1" />
-      <stop offset="80%" stop-color="#f472b6" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
-    </linearGradient>
-
-    <!-- Pill Border Gradient -->
-    <linearGradient id="pillBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.7" />
-      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.7" />
+    <!-- Glowing Red Accent Beam Gradient -->
+    <linearGradient id="redBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0" />
+      <stop offset="25%" stop-color="#ef4444" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#ff1744" stop-opacity="1" />
+      <stop offset="75%" stop-color="#dc2626" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0" />
     </linearGradient>
 
     <style>
@@ -59,9 +52,9 @@
         0%, 100% { transform: translateY(0px); }
         50% { transform: translateY(-3px); }
       }
-      @keyframes pulseGlow {
-        0%, 100% { opacity: 0.25; transform: scale(0.85); }
-        50% { opacity: 1; transform: scale(1.2); }
+      @keyframes pulseEmber {
+        0%, 100% { opacity: 0.3; transform: scale(0.85); }
+        50% { opacity: 1; transform: scale(1.25); }
       }
       .hero-title {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -69,67 +62,42 @@
         letter-spacing: -0.035em;
         animation: floatSoft 4s ease-in-out infinite;
       }
-      .badge-text {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
-        font-weight: 700;
-        letter-spacing: 0.14em;
-        text-transform: uppercase;
-        font-size: 11px;
-      }
       .bracket {
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
         font-weight: 300;
-        opacity: 0.4;
+        opacity: 0.45;
       }
-      .particle-1 { animation: pulseGlow 3s ease-in-out infinite; transform-origin: 190px 72px; }
-      .particle-2 { animation: pulseGlow 2.5s ease-in-out infinite 1s; transform-origin: 660px 75px; }
-      .particle-3 { animation: pulseGlow 3.5s ease-in-out infinite 0.5s; transform-origin: 220px 115px; }
-      .particle-4 { animation: pulseGlow 2.8s ease-in-out infinite 1.5s; transform-origin: 630px 115px; }
+      .ember-1 { animation: pulseEmber 2.8s ease-in-out infinite; transform-origin: 180px 42px; }
+      .ember-2 { animation: pulseEmber 2.2s ease-in-out infinite 0.8s; transform-origin: 670px 45px; }
+      .ember-3 { animation: pulseEmber 3.2s ease-in-out infinite 0.4s; transform-origin: 230px 78px; }
+      .ember-4 { animation: pulseEmber 2.6s ease-in-out infinite 1.4s; transform-origin: 620px 78px; }
     </style>
   </defs>
 
-  <!-- Status Pill Floating at Top (Centered) -->
-  <g transform="translate(425, 25)">
-    <rect x="-210" y="-14" width="420" height="28" rx="14" fill="#0d1117" stroke="url(#pillBorder)" stroke-width="1.2" />
-    <!-- Live Green Pulse Indicator -->
-    <circle cx="-188" cy="0" r="3.5" fill="#10b981" filter="url(#orbGlow)">
-      <animate attributeName="r" values="3;4.5;3" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="-188" cy="0" r="6" fill="#10b981" opacity="0.3">
-      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0.4;0;0.4" dur="2s" repeatCount="indefinite" />
-    </circle>
-    <!-- Badge Label -->
-    <text x="-172" y="3.5" fill="#cbd5e1" class="badge-text">
-      FOUNDER @ ROOTCRYPT <tspan fill="#38bdf8">•</tspan> FULL-STACK ARCHITECT
-    </text>
+  <!-- Ambient Crimson Embers -->
+  <g class="ember-1" fill="#ff1744">
+    <path d="M180 38 L181.5 41.5 L185 43 L181.5 44.5 L180 48 L178.5 44.5 L175 43 L178.5 41.5 Z" />
   </g>
+  <g class="ember-2" fill="#ff4d6d">
+    <path d="M670 41 L671.5 44.5 L675 46 L671.5 47.5 L670 51 L668.5 47.5 L665 46 L668.5 44.5 Z" />
+  </g>
+  <circle cx="230" cy="78" r="2" fill="#ef4444" class="ember-3" />
+  <circle cx="620" cy="78" r="2" fill="#dc2626" class="ember-4" />
 
-  <!-- Ambient Cosmic Sparkles -->
-  <g class="particle-1" fill="#38bdf8">
-    <path d="M190 68 L191.5 71.5 L195 73 L191.5 74.5 L190 78 L188.5 74.5 L185 73 L188.5 71.5 Z" />
-  </g>
-  <g class="particle-2" fill="#f472b6">
-    <path d="M660 70 L661.5 73.5 L665 75 L661.5 76.5 L660 80 L658.5 76.5 L655 75 L658.5 73.5 Z" />
-  </g>
-  <circle cx="220" cy="115" r="2" fill="#818cf8" class="particle-3" />
-  <circle cx="630" cy="115" r="2" fill="#c084fc" class="particle-4" />
-
-  <!-- Subtle Cyber Tech Brackets -->
-  <text x="145" y="93" fill="url(#auroraGrad)" font-size="44" class="bracket">&lt;</text>
-  <text x="685" y="93" fill="url(#auroraGrad)" font-size="44" class="bracket">/&gt;</text>
+  <!-- Subtle Cyber Tech Brackets in Red -->
+  <text x="140" y="58" fill="url(#crimsonGrad)" font-size="46" class="bracket">&lt;</text>
+  <text x="685" y="58" fill="url(#crimsonGrad)" font-size="46" class="bracket">/&gt;</text>
 
   <!-- Ambient Glow Text Layer -->
   <text 
     x="425" 
-    y="93" 
+    y="58" 
     text-anchor="middle" 
-    fill="url(#auroraGrad)" 
+    fill="url(#crimsonGrad)" 
     font-size="64" 
     class="hero-title"
-    filter="url(#subtleGlow)"
-    opacity="0.5"
+    filter="url(#crimsonGlow)"
+    opacity="0.55"
   >
     Hi, I'm Raunak
   </text>
@@ -137,9 +105,9 @@
   <!-- Sharp Foreground Hero Title -->
   <text 
     x="425" 
-    y="93" 
+    y="58" 
     text-anchor="middle" 
-    fill="url(#auroraGrad)" 
+    fill="url(#crimsonGrad)" 
     font-size="64" 
     class="hero-title"
   >
@@ -147,10 +115,10 @@
   </text>
 
   <!-- Glowing Accent Beam Line -->
-  <path d="M 230 118 L 620 118" stroke="url(#beamGrad)" stroke-width="2" stroke-linecap="round" />
+  <path d="M 230 80 L 620 80" stroke="url(#redBeam)" stroke-width="2" stroke-linecap="round" />
 
-  <!-- Pulsing Center Energy Core -->
-  <circle cx="425" cy="118" r="3.5" fill="#38bdf8" filter="url(#orbGlow)">
-    <animate attributeName="r" values="3;4.8;3" dur="2.5s" repeatCount="indefinite" />
+  <!-- Pulsing Center Energy Core in Crimson -->
+  <circle cx="425" cy="80" r="3.5" fill="#ff1744" filter="url(#redOrbGlow)">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
   </circle>
 </svg>
