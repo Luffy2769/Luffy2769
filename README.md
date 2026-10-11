@@ -95,9 +95,28 @@ I'm a self-taught Full Stack Developer and student with a passion for crafting i
 
 </details>
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
+## 📊 GitHub Analytics
 
-  [![Luffy2769's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luffy2769&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luffy2769&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffy2769&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</div>
 
-</details>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy2769&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luffy2769/Luffy2769/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luffy2769/Luffy2769/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Luffy2769/Luffy2769/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
