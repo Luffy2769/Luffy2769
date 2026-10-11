@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Raunak" width="100%" />
+  <img src="assets/hero.svg" alt="Hi, I'm Raunak" width="100%" />
 
   <p align="center">
     <a href="https://rootcrypt.in" target="_blank">
