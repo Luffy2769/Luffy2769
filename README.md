@@ -82,3 +82,14 @@ I'm a self-taught Full Stack Developer and student with a passion for crafting i
   [![Luffy2769's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luffy2769&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+<details open>
+  <summary>📊 3D Contribution Skyline</summary>
+  <br>
+
+  <div align="center">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" width="100%" />
+  </div>
+
+</details>
+
