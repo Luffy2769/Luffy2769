@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Raunak</h1>
+  <img src="assets/header.svg" alt="Hi, I'm Raunak" width="100%" />
+  <br>
   <a href="https://github.com/Luffy2769">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=36&lines=Founder+%40+RootCrypt;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Engineering+Modern+Web+Platforms;Full-Stack+Developer" alt="Typing Tagline" />
   </a>
