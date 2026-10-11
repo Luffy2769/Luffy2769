@@ -4,7 +4,7 @@
   </a>
   <br>
   <a href="https://github.com/Luffy2769">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;%F0%9F%92%BB+Crafting+Scalable+Web+Applications;%F0%9F%8E%AE+Gamer+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;%F0%9F%92%BB+Founder+%40+RootCrypt;%F0%9F%9A%80+Crafting+Scalable+Web+Platforms" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,9 +43,9 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **🌐 VE Abroad** | Full-scale live educational consulting web platform | `Node.js` • `React` • `Database` | [**Live Demo ↗**](https://veabroad.com/) |
-| **✨ Heer Dagha** | Clean, responsive personal & creative portfolio platform | `React` • `Modern UI` | [**Live Demo ↗**](https://heerdagha.com/) |
-| **🍵 SBooch** | Brand platform & storefront for artisanal kombucha | `Web Platform` • `Modern UI` | [**Live Demo ↗**](https://sbooch.com/) |
+| **🌐 VE Abroad** | Full-scale live educational consulting web platform | `Next.js` • `Django` • `Supabase` | [**Live Demo ↗**](https://veabroad.com/) |
+| **✨ Heer Dagha** | Clean, responsive personal & creative portfolio platform | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://heerdagha.com/) |
+| **🍵 SBooch** | Brand platform & storefront for artisanal kombucha | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://sbooch.com/) |
 
 <br>
 
@@ -53,20 +53,19 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
