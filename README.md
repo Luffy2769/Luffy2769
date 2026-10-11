@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://rootcrypt.in">
-    <img src="https://img.shields.io/badge/Check_My_Company-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
+    <img src="https://img.shields.io/badge/Founder_of-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
   </a>
   &nbsp;&nbsp;
   <a href="https://luffy2769.github.io/Raunak-Portfolio">
