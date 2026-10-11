@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/ItzMeet2">
+  <a href="https://github.com/Luffy2769">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Header Banner" />
-    </a>
+  </a>
 </div>
 
 <br>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Check_Out_My_Live_Project-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Live Project" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://luffy2769.github.io/Raunak-Portfolio/">
+  <a href="https://luffy2769.github.io/Raunak-Portfolio">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Portfolio" />
   </a>
 </div>
