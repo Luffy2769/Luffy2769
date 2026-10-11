@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Luffy2769">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070F1E,45:0F172A,100:0284C7&height=210&section=header&text=Hi%20there,%20I'm%20Raunak&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" alt="Raunak" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070F1E,45:0F172A,100:0284C7&height=210&section=header&text=Hi%20there,%20I'm%20Raunak&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&fontFamily=Consolas&stroke=38BDF8&strokeWidth=1" alt="Raunak" width="100%" />
   </a>
   <br>
   <a href="https://github.com/Luffy2769">
