@@ -1,0 +1,122 @@
+<svg width="100%" height="96" viewBox="0 0 850 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Ultra-Smooth Performance Red Gradient -->
+    <linearGradient id="crimsonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2a5f" />
+      <stop offset="35%" stop-color="#ef4444" />
+      <stop offset="65%" stop-color="#ff4d6d" />
+      <stop offset="100%" stop-color="#dc2626" />
+    </linearGradient>
+
+    <!-- Glowing Red Accent Beam Gradient -->
+    <linearGradient id="redBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0" />
+      <stop offset="25%" stop-color="#ef4444" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#ff2a5f" stop-opacity="1" />
+      <stop offset="75%" stop-color="#dc2626" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      /* GPU-accelerated smooth animations: zero CPU filter recalculation */
+      @keyframes silkyFloat {
+        0%, 100% {
+          transform: translate3d(0, 0, 0);
+        }
+        50% {
+          transform: translate3d(0, -3.5px, 0);
+        }
+      }
+
+      @keyframes smoothPulse {
+        0%, 100% {
+          transform: scale(0.9);
+          opacity: 0.4;
+        }
+        50% {
+          transform: scale(1.15);
+          opacity: 1;
+        }
+      }
+
+      @keyframes coreGlow {
+        0%, 100% {
+          transform: scale(1);
+          opacity: 0.8;
+        }
+        50% {
+          transform: scale(1.4);
+          opacity: 1;
+        }
+      }
+
+      .hero-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 900;
+        letter-spacing: -0.035em;
+        animation: silkyFloat 3.2s cubic-bezier(0.45, 0.05, 0.55, 0.95) infinite;
+        will-change: transform;
+        /* Hardware accelerated drop-shadow */
+        filter: drop-shadow(0 0 10px rgba(239, 68, 68, 0.55)) drop-shadow(0 0 24px rgba(220, 38, 38, 0.3));
+      }
+
+      .bracket {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-weight: 300;
+        opacity: 0.5;
+        filter: drop-shadow(0 0 6px rgba(239, 68, 68, 0.4));
+      }
+
+      .sparkle-left {
+        animation: smoothPulse 2.5s ease-in-out infinite;
+        transform-origin: 180px 43px;
+        will-change: transform, opacity;
+      }
+
+      .sparkle-right {
+        animation: smoothPulse 2.5s ease-in-out infinite 1.25s;
+        transform-origin: 670px 46px;
+        will-change: transform, opacity;
+      }
+
+      .center-core {
+        animation: coreGlow 2s ease-in-out infinite;
+        transform-origin: 425px 80px;
+        will-change: transform, opacity;
+        filter: drop-shadow(0 0 6px #ff1744);
+      }
+    </style>
+  </defs>
+
+  <!-- Ambient Crimson Sparkles -->
+  <g class="sparkle-left" fill="#ff2a5f">
+    <path d="M180 38 L181.5 41.5 L185 43 L181.5 44.5 L180 48 L178.5 44.5 L175 43 L178.5 41.5 Z" />
+  </g>
+  <g class="sparkle-right" fill="#ff4d6d">
+    <path d="M670 41 L671.5 44.5 L675 46 L671.5 47.5 L670 51 L668.5 47.5 L665 46 L668.5 44.5 Z" />
+  </g>
+  <circle cx="230" cy="78" r="2" fill="#ef4444" opacity="0.6" />
+  <circle cx="620" cy="78" r="2" fill="#dc2626" opacity="0.6" />
+
+  <!-- Subtle Cyber Tech Brackets in Red -->
+  <text x="140" y="58" fill="url(#crimsonGrad)" font-size="46" class="bracket">&lt;</text>
+  <text x="685" y="58" fill="url(#crimsonGrad)" font-size="46" class="bracket">/&gt;</text>
+
+  <!-- Razor-Sharp Hardware-Accelerated Hero Title -->
+  <text 
+    x="425" 
+    y="58" 
+    text-anchor="middle" 
+    fill="url(#crimsonGrad)" 
+    font-size="64" 
+    class="hero-title"
+  >
+    Hi, I'm Raunak
+  </text>
+
+  <!-- Glowing Accent Beam Line -->
+  <path d="M 230 80 L 620 80" stroke="url(#redBeam)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Pulsing Center Energy Core in Crimson -->
+  <circle cx="425" cy="80" r="3.5" fill="#ff1744" class="center-core" />
+</svg>
