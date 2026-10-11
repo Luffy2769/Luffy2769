@@ -11,12 +11,12 @@
 <br>
 
 <div align="center">
-  <a href="https://veabroad.com">
-    <img src="https://img.shields.io/badge/Check_Out_My_Live_Project-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Live Project" />
+  <a href="https://rootcrypt.in">
+    <img src="https://img.shields.io/badge/Check_My_Company-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
   </a>
   &nbsp;&nbsp;
   <a href="https://luffy2769.github.io/Raunak-Portfolio">
-    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-0f172a?style=for-the-badge&logo=codeigniter&logoColor=ff652f&labelColor=1e293b" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Check_My_Portfolio-Raunak-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-taught Full Stack Developer and student with a passion for crafting interactive, full-scale web applications. My coding journey began with a natural curiosity about the inner workings of the internet, leading me to learn everything from crafting seamless user interfaces to designing resilient backend systems. Outside of programming and working on challenging projects, I enjoy listening to music and diving into competitive, story-driven games. I am always open to freelance opportunities and eager to collaborate with other developers on exciting new ventures!
+I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://rootcrypt.in)**, passionate about crafting interactive, full-scale web applications. My coding journey began with a natural curiosity about the inner workings of the internet, leading me to learn everything from crafting seamless user interfaces to designing resilient backend systems. Outside of programming and working on challenging projects, I enjoy listening to music and diving into competitive, story-driven games. I am always open to freelance opportunities and eager to collaborate with other developers on exciting new ventures!
 
 ## 💻 Featured Projects
 
@@ -82,6 +82,7 @@ I'm a self-taught Full Stack Developer and student with a passion for crafting i
 
 ## 📌 Quick Facts
 
+- 🚀 Founder of [RootCrypt](https://rootcrypt.in)
 - 🔭 Working on full-scale client platforms & modern web applications
 - 🌱 Currently learning everything I can get my hands on
 - 👯 Looking to collaborate with other developers
