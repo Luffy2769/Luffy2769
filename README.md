@@ -18,6 +18,8 @@
   <a href="https://luffy2769.github.io/Raunak-Portfolio">
     <img src="https://img.shields.io/badge/Check_My_Portfolio-Raunak-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Luffy2769&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
