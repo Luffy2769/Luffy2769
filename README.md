@@ -1,10 +1,7 @@
 <div align="center">
+  <h1>Hi, I'm Raunak</h1>
   <a href="https://github.com/Luffy2769">
-    <img src="./assets/header.svg" alt="Raunak - Founder & Full-Stack Developer" width="100%" />
-  </a>
-  <br>
-  <a href="https://github.com/Luffy2769">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=46&lines=Full+Stack+Developer;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Founder+%40+RootCrypt;Crafting+Modern+Web+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=36&lines=Founder+%40+RootCrypt;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Engineering+Modern+Web+Platforms;Full-Stack+Developer" alt="Typing Tagline" />
   </a>
 
   <p align="center">
