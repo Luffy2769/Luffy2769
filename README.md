@@ -1,38 +1,41 @@
 <div align="center">
   <a href="https://github.com/Luffy2769">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070F1E,45:0F172A,100:0284C7&height=210&section=header&text=Hi%20there,%20I'm%20Raunak&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" alt="Raunak" width="100%" />
   </a>
   <br>
   <a href="https://github.com/Luffy2769">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;%F0%9F%92%BB+Founder+%40+RootCrypt;%F0%9F%9A%80+Crafting+Scalable+Web+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&height=46&lines=Full+Stack+Developer;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Founder+%40+RootCrypt;Crafting+Modern+Web+Platforms" alt="Typing SVG" />
   </a>
-</div>
 
-<br>
+  <p align="center">
+    <a href="https://rootcrypt.in" target="_blank">
+      <img src="https://img.shields.io/badge/Founder_of-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
+    </a>
+    &nbsp;
+    <a href="https://luffy2769.github.io/Raunak-Portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <img src="https://hits.sh/github.com/Luffy2769.svg?style=for-the-badge&label=PROFILE+VIEWS&color=38bdf8&labelColor=1e293b" alt="Profile Views" />
+  </p>
 
-<div align="center">
-  <a href="https://rootcrypt.in">
-    <img src="https://img.shields.io/badge/Founder_of-RootCrypt-0f172a?style=for-the-badge&logo=roots&logoColor=38bdf8&labelColor=1e293b" alt="RootCrypt" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://luffy2769.github.io/Raunak-Portfolio">
-    <img src="https://img.shields.io/badge/Check_My_Portfolio-Raunak-0f172a?style=for-the-badge&logo=safari&logoColor=38bdf8&labelColor=1e293b" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://hits.sh/github.com/Luffy2769.svg?style=for-the-badge&label=PROFILE+VIEWS&color=38bdf8&labelColor=1e293b" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-
-  [![website](https://img.icons8.com/fluency/48/geography.png)](https://luffy2769.github.io/Raunak-Portfolio) &nbsp;&nbsp;
-  [![linkedin](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/raunak-r-561a01320) &nbsp;&nbsp;
-  [![instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/vasc0smos) &nbsp;&nbsp;
-  [![telegram](https://img.icons8.com/fluency/48/telegram-app.png)](https://t.me/vasc0smos) &nbsp;&nbsp;
-  [![whatsapp](https://img.icons8.com/fluency/48/whatsapp.png)](https://wa.me/918369961495) &nbsp;&nbsp;
-  [![gmail](https://img.icons8.com/fluency/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=raunak.rawat69@gmail.com)
-
+  <p align="center">
+    <a href="https://linkedin.com/in/raunak-r-561a01320" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:raunak.rawat69@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://t.me/vasc0smos" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://wa.me/918369961495" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://instagram.com/vasc0smos" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 </div>
 
 <br>
