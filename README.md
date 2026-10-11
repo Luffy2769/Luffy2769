@@ -1,5 +1,9 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Hi, I'm Raunak" width="100%" />
+  <br>
+  <a href="https://github.com/Luffy2769">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1100&color=EF4444&center=true&vCenter=true&width=650&height=36&lines=Founder+%40+RootCrypt;Full-Stack+Developer;Next.js+%E2%80%A2+Django+%E2%80%A2+Supabase;Engineering+Modern+Web+Platforms" alt="Typing Tagline" />
+  </a>
 
   <p align="center">
     <a href="https://rootcrypt.in" target="_blank">
