@@ -37,23 +37,23 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://rootcrypt.in)**, passionate about crafting interactive, full-scale web applications. My coding journey began with a natural curiosity about the inner workings of the internet, leading me to learn everything from crafting seamless user interfaces to designing resilient backend systems. Outside of programming and working on challenging projects, I enjoy listening to music and diving into competitive, story-driven games. I am always open to freelance opportunities and eager to collaborate with other developers on exciting new ventures!
 
-## 💻 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **🌐 VE Abroad** | Full-scale live educational consulting web platform | `Next.js` • `Django` • `Supabase` | [**Live Demo ↗**](https://veabroad.com/) |
-| **✨ Heer Dagha** | Clean, responsive personal & creative portfolio platform | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://heerdagha.com/) |
-| **🍵 SBooch** | Brand platform & storefront for artisanal kombucha | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://sbooch.com/) |
+| **VE Abroad** | Full-scale live educational consulting web platform | `Next.js` • `Django` • `Supabase` | [**Live Demo ↗**](https://veabroad.com/) |
+| **Heer Dagha** | Clean, responsive personal & creative portfolio platform | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://heerdagha.com/) |
+| **SBooch** | Brand platform & storefront for artisanal kombucha | `Next.js` • `Modern UI` | [**Live Demo ↗**](https://sbooch.com/) |
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -64,7 +64,7 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -74,14 +74,14 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 🤖 Bot Development & Automation
+### Bot Development & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots" />
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
   <img src="https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bots" />
 </p>
 
-### 🧰 Tools & Game Dev
+### Tools & Game Development
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -91,28 +91,19 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
 
 <br>
 
-## 📌 Quick Facts
+## Quick Facts
 
-- 🚀 Founder of [RootCrypt](https://rootcrypt.in)
-- 🤖 Building custom Discord, Telegram & WhatsApp automation bots
-- 🔭 Working on full-scale client platforms & modern web applications
-- 🌱 Currently learning everything I can get my hands on
-- 👯 Looking to collaborate with other developers
-- 🤝 Open to freelance opportunities
-- 🥅 2026 Goals: Contribute more to open source
-- ⚡ Fun fact: I love listening to music and playing competitive / story games
+- Founder of **[RootCrypt](https://rootcrypt.in)**
+- Building custom automation bots for Discord, Telegram & WhatsApp
+- Engineering full-scale client platforms & modern web applications
+- Exploring new technologies across backend, cloud & full-stack development
+- Open to freelance opportunities & developer collaborations
+- 2026 Focus: Scaling RootCrypt & contributing to open source
+- Outside of code: Music, competitive gaming & narrative adventures
 
 <br>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luffy2769&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Stats" />
@@ -128,7 +119,7 @@ I'm a self-taught Full Stack Developer and founder of **[RootCrypt](https://root
 
 <br>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
