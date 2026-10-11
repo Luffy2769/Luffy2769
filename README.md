@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://github.com/Luffy2769">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Raunak%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=twinkling" alt="Header Banner" />
+  </a>
+  <br>
+  <a href="https://github.com/Luffy2769">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;%F0%9F%92%BB+Crafting+Scalable+Web+Applications;%F0%9F%8E%AE+Gamer+%26+Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
